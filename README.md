@@ -1,1 +1,2 @@
-# The_C_Programming_Language.book
+# The C Programming Language 2nd Edition (Ritchie & Kernighan)
+Solution of exercices by Chapters.
